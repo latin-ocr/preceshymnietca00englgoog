@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./preceshymnietca00englgoog_0037.png"; bbox 0 0 2274 3782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 1661 754 1816">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 1661 754 1816">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 1661 754 1816; baseline -0.031 -36"><span class='ocrx_word' id='word_1_1' title='bbox 333 1671 632 1816; x_wconf 41' lang='lat' dir='ltr'>&amp;mutinum</span> <span class='ocrx_word' id='word_1_2' title='bbox 669 1661 754 1802; x_wconf 66' lang='lat' dir='ltr'>piae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 59 1801 918 2105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 59 1801 918 2105">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 1801 918 1962; baseline -0.026 -18"><span class='ocrx_word' id='word_1_3' title='bbox 59 1801 60 1804; x_wconf 5' lang='grc' dir='ltr'>Ὺ</span> <span class='ocrx_word' id='word_1_4' title='bbox 165 1843 311 1955; x_wconf 71' lang='lat' dir='ltr'>hatiiz</span> <span class='ocrx_word' id='word_1_5' title='bbox 347 1830 518 1944; x_wconf 72' lang='lat' dir='ltr'>nzihnz</span> <span class='ocrx_word' id='word_1_6' title='bbox 554 1839 596 1936; x_wconf 67' lang='grc' dir='ltr'>εἰ</span> <span class='ocrx_word' id='word_1_7' title='bbox 632 1814 918 1962; x_wconf 67' lang='lat' dir='ltr'>tempatihnz</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 364 1994 721 2105; baseline -0.035 0"><span class='ocrx_word' id='word_1_8' title='bbox 364 1994 721 2105; x_wconf 63' lang='lat' dir='ltr'><strong>mummuhatae</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1142 3782">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1142 3782">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1142 3782; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1142 3782; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
